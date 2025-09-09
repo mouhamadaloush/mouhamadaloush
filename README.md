@@ -3,7 +3,6 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=20)](https://www.linkedin.com/in/mouhammad-alloush06/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoSize=20)](https://github.com/mouhamadaloush)
   [![Email](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=20)](mouhamad.aloush06@gmail.com)
   
 </div>
