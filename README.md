@@ -58,7 +58,7 @@
 
 ### 🚀 Projects That Define Me
 
-* **DetoFolio (Full-Stack Web & Mobile App):** Built a system for managing patient information and appointments. I used Django and DRF to provide a robust solution for clinic management. My work included implementing secure user registration, password management , and Role-Based Access Control. I also integrated the **Google Gemini API** to analyze dental **X-ray** images.
+* **DentoFolio (Full-Stack Web & Mobile App):** Built a system for managing patient information and appointments. I used Django and DRF to provide a robust solution for clinic management. My work included implementing secure user registration, password management , and Role-Based Access Control. I also integrated the **Google Gemini API** to analyze dental **X-ray** images.
 
 * **Web Scraper (Python):** An automated Python script that utilized Selenium to gather information from a house rental website. The script was designed to **handle JavaScript pop-ups**, extract property information and images, and generate a final PDF report.
 
